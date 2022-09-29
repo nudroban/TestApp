@@ -316,7 +316,7 @@ DEPENDENCIES
   jquery-rails
   meta-tags
   pg
-  puma (~> 5.0)
+  puma
   rails (~> 7.0.2, >= 7.0.2.3)
   rails-controller-testing
   rspec-rails
